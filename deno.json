@@ -1,0 +1,25 @@
+{
+	"name": "grillsay",
+	"version": "1.0.0",
+	"description": "The boomer cowsay - ASCII art grill speaks",
+	"main": "./src/main.ts",
+	"imports": {
+		"std/": "https://deno.land/std@0.208.0/"
+	},
+	"tasks": {
+		"dev": "deno run --allow-read --unstable-raw-imports src/main.ts",
+		"grillsay": "deno run --allow-read --unstable-raw-imports src/main.ts",
+		"build": "deno compile --allow-read --unstable-raw-imports --output dist/grillsay src/main.ts"
+	},
+	"fmt": {
+		"semiColons": true,
+		"singleQuote": false
+	},
+	"lint": {
+		"rules": {
+			"tags": [
+				"recommended"
+			]
+		}
+	}
+}
