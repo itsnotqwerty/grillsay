@@ -41,10 +41,14 @@ const quips = [
   "I'm not on social media. If you want to know what I think, come over.",
 ];
 
-const message =
-  Deno.args.length > 0
-    ? Deno.args.join(" ")
-    : quips[Math.floor(Math.random() * quips.length)];
+let message: string;
+if (!Deno.stdin.isTerminal()) {
+  message = (await new Response(Deno.stdin.readable).text()).trim();
+} else if (Deno.args.length > 0) {
+  message = Deno.args.join(" ");
+} else {
+  message = quips[Math.floor(Math.random() * quips.length)];
+}
 
 const MAX_WIDTH = 40;
 
