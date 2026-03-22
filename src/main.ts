@@ -68,7 +68,9 @@ function wordWrap(text: string, width: number): string[] {
   return lines;
 }
 
-const lines = wordWrap(message, MAX_WIDTH);
+const lines = message
+  .split("\n")
+  .flatMap((line) => wordWrap(line.trim(), MAX_WIDTH));
 const boxWidth = Math.max(...lines.map((l) => l.length));
 const border = "_".repeat(boxWidth + 2);
 
