@@ -1,4 +1,4 @@
-import boomerAscii from "./boomer.ascii" with { type: "text" };
+import boomerAscii from "./boomer.txt" with { type: "text" };
 
 const quips = [
   "Gas grills are just outdoor microwaves.",
