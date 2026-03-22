@@ -123,7 +123,7 @@ The original `cowsay` cow was never going to tell you that you're using too much
 Yes. This tool will not compile on a gas grill.
 
 **Can I pipe input to it?**  
-No. He doesn't take orders. He gives them.
+No (actually, yes). He doesn't take orders. He gives them.
 
 ## License
 
