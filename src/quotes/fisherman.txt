@@ -1,16 +1,32 @@
-The fish was bigger before I had witnesses.
-Bad day fishing still beats a good day answering email.
-You call it sitting around. I call it reading the water.
-The secret spot is secret because I forgot where it is.
-I brought six rods and exactly one sandwich.
-They're biting somewhere. That's the whole problem.
-If patience is a virtue, I'm practically a saint with a tackle box.
-That wasn't a snag. It was a very committed fish.
-The weather's wrong. The bait's wrong. I'm doing great.
-Catch and release. Especially when somebody asks how big it was.
-My best lure is the one currently attached to that tree.
-The river doesn't care about your calendar.
-One more cast is a unit of time with no fixed length.
-I know a shortcut to the lake. Bring walking shoes.
-The boat has two speeds: expensive and more expensive.
-Don't tell the fish I took the day off.
+[fishing] The fish was bigger before I had witnesses.
+[fishing] Bad day fishing still beats a good day answering email.
+[fishing] You call it sitting around. I call it reading the water.
+[fishing] The secret spot is secret because I forgot where it is.
+[fishing,food] I brought six rods and exactly one sandwich.
+[fishing] They're biting somewhere. That's the whole problem.
+[fishing] If patience is a virtue, I'm practically a saint with a tackle box.
+[fishing] That wasn't a snag. It was a very committed fish.
+[fishing] The weather's wrong. The bait's wrong. I'm doing great.
+[fishing] Catch and release. Especially when somebody asks how big it was.
+[fishing,money] My best lure is the one currently attached to that tree.
+[fishing] The river doesn't care about your calendar.
+[fishing] One more cast is a unit of time with no fixed length.
+[fishing] I know a shortcut to the lake. Bring walking shoes.
+[fishing] The boat has two speeds: expensive and more expensive.
+[fishing] Don't tell the fish I took the day off.
+[fishing] The knot held. The branch came with it.
+[fishing,food] I packed lunch for one more cast. That was breakfast.
+[fishing,work] My out-of-office reply contains no useful coordinates.
+[fishing] The fish finder found water. Strong start.
+[fishing,technology] The app says excellent conditions. The fish didn't download it.
+[fishing] Every lure has caught at least one fisherman at the store.
+[fishing,money] Fishing is cheap if you don't count anything you buy.
+[fishing] I practice sustainable storytelling: the same fish gets bigger every year.
+[fishing,food] Shore lunch is easier when somebody brings groceries.
+[fishing] I cast into the wind to keep myself humble.
+[fishing,work] The lake has no agenda. That's why I attend.
+[fishing] The bobber moved. Cancel my plans.
+[fishing,technology] Waterproof is a challenge the lake takes personally.
+[fishing] The best spot is always on the other bank.
+[fishing,money] The tackle shop knows my financial weaknesses by color.
+[fishing] I released it immediately. It was a boot.

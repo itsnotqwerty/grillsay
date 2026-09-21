@@ -1,16 +1,32 @@
-I cast shrimp. The ocean casts judgment.
-Behold: the smallest bait with the biggest responsibility.
-My tackle box smells like a summoning circle at low tide.
-You fish for dinner. I negotiate with the crustacean realm.
-One shrimp to lure them all. Usually just a crab.
-The tide provides. Mostly wet socks.
-I have mastered the forbidden technique: casting without losing the bait.
-My familiar is a shrimp. He's not very talkative.
-The fish demand tribute. I have a discount bag of frozen tribute.
-Another perfect cast into the jurisdiction of that seagull.
-Brine is just mana with a smell.
-I didn't lose the shrimp. I released a scout.
-The rod is my wand. The cooler is my spellbook.
-You cannot rush the ancient art of sitting near saltwater.
-Low tide reveals many secrets. And somebody's lawn chair.
-The shrimp council has reviewed your bait and finds it adequate.
+[fishing] I cast shrimp. The ocean casts judgment.
+[fishing] Behold: the smallest bait with the biggest responsibility.
+[fishing] My tackle box smells like a summoning circle at low tide.
+[fishing] You fish for dinner. I negotiate with the crustacean realm.
+[fishing] One shrimp to lure them all. Usually just a crab.
+[fishing] The tide provides. Mostly wet socks.
+[fishing] I have mastered the forbidden technique: casting without losing the bait.
+[fishing] My familiar is a shrimp. He's not very talkative.
+[fishing] The fish demand tribute. I have a discount bag of frozen tribute.
+[fishing] Another perfect cast into the jurisdiction of that seagull.
+[fishing] Brine is just mana with a smell.
+[fishing] I didn't lose the shrimp. I released a scout.
+[fishing] The rod is my wand. The cooler is my spellbook.
+[fishing] You cannot rush the ancient art of sitting near saltwater.
+[fishing,gardening] Low tide reveals many secrets. And somebody's lawn chair.
+[fishing] The shrimp council has reviewed your bait and finds it adequate.
+[fishing] The shrimp oracle predicts another shrimp purchase.
+[fishing,food] Do not eat the reagents. Yes, even with cocktail sauce.
+[fishing,technology] My sonar detects a disturbance in the brine field.
+[fishing] I invoke the ancient knot. It invokes a tangle.
+[fishing,work] The shrimp council denied my vacation request.
+[fishing] This bucket contains either bait or a minor prophecy.
+[fishing,money] Powerful shrimp magic requires an affordable cooler.
+[fishing,food] The ritual calls for fresh shrimp. Frozen will have to believe harder.
+[fishing] My casting circle has a posted tide schedule.
+[fishing,technology] The enchantment failed. I had airplane mode on.
+[fishing] The seagull has stolen my spell components again.
+[fishing,work] Apprenticeship begins with carrying the smelly bucket.
+[fishing] I summon a mighty catch. A small crab has accepted.
+[fishing,money] The bait shop accepts currency from only this plane.
+[fishing,food] Garlic butter is the forbidden final school of shrimp magic.
+[fishing] Every wave is applause if you're sufficiently optimistic.

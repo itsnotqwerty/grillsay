@@ -1,16 +1,32 @@
-It's not unfinished. It's in conversation with absence.
-The gallery rejected it. That completes the piece.
-I only paint with colors the landlord disapproves of.
-Your grill has a very industrial relationship with meat.
-I made a zine about making rent. It did not make rent.
-That stain is the strongest part of the composition.
-My medium is mixed. My income is not.
-The frame costs more than the painting. That's the statement.
-I liked this neighborhood before it had a font.
-It's a found object. Please stop calling it trash.
-The installation is interactive. You pay my electricity bill.
-I don't have a studio. I have a kitchen with consequences.
-The negative space is where my commission should be.
-This is my blue period. The printer ran out of everything else.
-I can explain the sculpture, but that costs extra.
-The opening has free cheese. Finally, art sustains me.
+[art] It's not unfinished. It's in conversation with absence.
+[art] The gallery rejected it. That completes the piece.
+[art,technology] I only paint with colors the landlord disapproves of.
+[art,food] Your grill has a very industrial relationship with meat.
+[art,money] I made a zine about making rent. It did not make rent.
+[art] That stain is the strongest part of the composition.
+[art] My medium is mixed. My income is not.
+[art,money] The frame costs more than the painting. That's the statement.
+[art] I liked this neighborhood before it had a font.
+[art] It's a found object. Please stop calling it trash.
+[art,money] The installation is interactive. You pay my electricity bill.
+[art] I don't have a studio. I have a kitchen with consequences.
+[art] The negative space is where my commission should be.
+[art,technology] This is my blue period. The printer ran out of everything else.
+[art,money] I can explain the sculpture, but that costs extra.
+[art,food] The opening has free cheese. Finally, art sustains me.
+[art,work] The client asked for exposure. I asked which bank accepts it.
+[art] My retrospective is three drawings and a very long explanation.
+[art,food] I arranged the leftovers by emotional temperature.
+[art] The sculpture explores balance. Please stop leaning on it.
+[art,technology] I saved it as final_final_existential_crisis.png.
+[art,work] My commission includes two revisions and one identity crisis.
+[art,food] The coffee is terrible, but the cup has integrity.
+[art] The portrait captures his inner life. He wanted a smaller nose.
+[art,money] The price includes the hours I spent doubting it.
+[art] The wall text is longer than my lease.
+[art,technology] The algorithm doesn't understand my work. Neither did the curator.
+[art,work] I invoice in layers of meaning. Accounting prefers dollars.
+[art,food] This soup needs a stronger focal point.
+[art] Every blank canvas is a fresh opportunity to reorganize the studio.
+[art,money] Patronage is when someone else pays for the good brushes.
+[art] I work in charcoal. The grill guy says I'm wasting it.

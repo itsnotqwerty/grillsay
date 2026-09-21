@@ -1,16 +1,32 @@
-Hello, fellow ordinary person. What are your ordinary plans?
-I love local sports team. Their recent outcome was relatable.
-This barbecue has excellent acoustics. Unrelated observation.
-Tell me more about your hobbies, associates, and preferred entrances.
-My job? A little consulting. A little standing near vans.
-I'm new in town. For administrative purposes, so are you.
-That bird has always had an antenna.
-Please speak naturally toward my completely normal lapel.
-I brought potato salad and a detailed seating chart.
-What a coincidence. This is our fourth coincidence today.
-No need to lower your voice. The equipment is very good.
-I also enjoy music, weather, and unprompted disclosures.
-Can you repeat that anecdote using everyone's full names?
-I have never seen that van before this assignment. Afternoon.
-Let's take a group photo. Face forward, please.
-I'm just here to make friends and maintain accurate records.
+[surveillance] Hello, fellow ordinary person. What are your ordinary plans?
+[surveillance] I love local sports team. Their recent outcome was relatable.
+[surveillance] This barbecue has excellent acoustics. Unrelated observation.
+[surveillance] Tell me more about your hobbies, associates, and preferred entrances.
+[surveillance,work] My job? A little consulting. A little standing near vans.
+[surveillance] I'm new in town. For administrative purposes, so are you.
+[surveillance] That bird has always had an antenna.
+[surveillance] Please speak naturally toward my completely normal lapel.
+[surveillance] I brought potato salad and a detailed seating chart.
+[surveillance] What a coincidence. This is our fourth coincidence today.
+[surveillance] No need to lower your voice. The equipment is very good.
+[surveillance] I also enjoy music, weather, and unprompted disclosures.
+[surveillance] Can you repeat that anecdote using everyone's full names?
+[surveillance] I have never seen that van before this assignment. Afternoon.
+[surveillance] Let's take a group photo. Face forward, please.
+[surveillance] I'm just here to make friends and maintain accurate records.
+[surveillance,work] My references are available on a need-to-know basis.
+[surveillance,food] Which burger is yours? For normal burger reasons.
+[surveillance,technology] The fitness watch measures steps and useful associations.
+[surveillance] I picked this seat for its friendly sightlines.
+[surveillance] Your dog seems suspiciously good at recognizing me.
+[surveillance,work] My office is wherever the conversation is happening.
+[surveillance,food] Homemade cookies. Factory-sealed recording components.
+[surveillance] I remember your birthday from a completely social database.
+[surveillance,technology] That button on my shirt is purely decorative and rechargeable.
+[surveillance] What a charming fence. How many gates does it have?
+[surveillance,work] My onboarding included a very convincing hobby.
+[surveillance,food] Please describe the secret sauce slowly and clearly.
+[surveillance] I'm a people person. Specifically, these people on this list.
+[surveillance,technology] My phone has two weather apps and no other visible features.
+[surveillance] Let's keep in touch. Infrastructure is already in place.
+[surveillance] I brought a board game. It establishes patterns of cooperation.

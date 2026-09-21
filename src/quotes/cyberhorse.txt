@@ -1,16 +1,32 @@
-NEIGH.exe has encountered an unexpected carrot.
-Four hooves. Eight cores. Still stuck behind a tractor.
-My stable connection is literally a stable connection.
-Installing hayware update. Do not turn off your horse.
-I accept cookies. Also oats.
-The cloud is just somebody else's paddock.
-Gallop mode requires a firmware update.
-My antivirus flagged the Trojan horse. Family reunions are awkward.
-Low battery. Return to charging trough.
-I passed the CAPTCHA. They asked me to identify horses.
-They put me on the blockchain. I preferred the pasture.
-My mane has RGB. It adds zero horsepower.
-Rebooting the hoof stack.
-Unauthorized saddle detected. Please contact your ranch administrator.
-I dream of electric fences. Mostly of avoiding them.
-Please stop asking whether I run on Windows. I run on legs.
+[technology] NEIGH.exe has encountered an unexpected carrot.
+[technology] Four hooves. Eight cores. Still stuck behind a tractor.
+[technology] My stable connection is literally a stable connection.
+[technology] Installing hayware update. Do not turn off your horse.
+[technology] I accept cookies. Also oats.
+[technology] The cloud is just somebody else's paddock.
+[technology] Gallop mode requires a firmware update.
+[technology] My antivirus flagged the Trojan horse. Family reunions are awkward.
+[technology] Low battery. Return to charging trough.
+[technology] I passed the CAPTCHA. They asked me to identify horses.
+[technology] They put me on the blockchain. I preferred the pasture.
+[technology] My mane has RGB. It adds zero horsepower.
+[technology] Rebooting the hoof stack.
+[technology] Unauthorized saddle detected. Please contact your ranch administrator.
+[technology] I dream of electric fences. Mostly of avoiding them.
+[technology] Please stop asking whether I run on Windows. I run on legs.
+[technology] My hooves are hot-swappable. Please ask first.
+[technology,work] I joined a stand-up meeting. All my meetings are stand-up meetings.
+[food,technology] Carrot authentication successful. Welcome back, rancher.
+[technology] My tail is a legacy connector.
+[technology] The fence has a firewall. Neither is a suggestion.
+[technology,money] They charge monthly for premium trotting.
+[technology,work] I have been reassigned to the neigh-twork team.
+[food,technology] Oats detected. Switching to performance mode.
+[technology] My gait is open source. The saddle is proprietary.
+[technology] I cleared my cache and forgot which barn is mine.
+[technology,work] Ticket closed: user was holding reins backward.
+[food] I asked for a byte. They gave me a whole apple.
+[technology] Hoofprint recognition is currently unavailable on muddy terrain.
+[technology,money] Horsepower is free. The adapter costs extra.
+[technology] My backup lives in a second barn.
+[technology] Connection lost. Attempting to re-neigh-gotiate.

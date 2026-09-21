@@ -1,16 +1,32 @@
-You didn't hear this from me. Especially if it's wrong.
-Meet me by the vending machine. Bring exact change.
-I know a guy who knows a guy. Neither answers texts.
-The envelope is empty. That's how sensitive this is.
-I've got names. Mostly nicknames. One might be a sandwich.
-Keep your voice down. The ficus has connections.
-This information costs extra if you want it to be true.
-The briefcase is for atmosphere. Lunch is in the other one.
-Let's just say the pigeons aren't paying rent either.
-I can neither confirm nor afford to deny it.
-The password is password. They're not a sophisticated outfit.
-You want the short version or the version that pays my parking?
-Burn after reading. It's also a terrible recipe.
-I've said too much. Mostly about myself.
-Our mutual friend sends regards and an overdue invoice.
-If anyone asks, we were discussing mulch.
+[surveillance] You didn't hear this from me. Especially if it's wrong.
+[surveillance] Meet me by the vending machine. Bring exact change.
+[surveillance] I know a guy who knows a guy. Neither answers texts.
+[surveillance] The envelope is empty. That's how sensitive this is.
+[food,surveillance] I've got names. Mostly nicknames. One might be a sandwich.
+[surveillance] Keep your voice down. The ficus has connections.
+[money,surveillance] This information costs extra if you want it to be true.
+[food,surveillance] The briefcase is for atmosphere. Lunch is in the other one.
+[money,surveillance] Let's just say the pigeons aren't paying rent either.
+[surveillance] I can neither confirm nor afford to deny it.
+[surveillance,technology] The password is password. They're not a sophisticated outfit.
+[money,surveillance] You want the short version or the version that pays my parking?
+[surveillance] Burn after reading. It's also a terrible recipe.
+[surveillance] I've said too much. Mostly about myself.
+[surveillance,work] Our mutual friend sends regards and an overdue invoice.
+[gardening,surveillance] If anyone asks, we were discussing mulch.
+[surveillance] I have the inside scoop. It came with a loyalty card.
+[surveillance,money] My sources prefer cash and plausible deniability.
+[surveillance,food] The sandwich is a dead drop. The pickle is mine.
+[surveillance,work] Confidentiality is my business. Invoicing is my struggle.
+[surveillance,technology] Use the burner phone. Not the one actually on fire.
+[surveillance] I've connected three dots. Two were coffee stains.
+[surveillance] The mole is reliable. Terrible eyesight, excellent digging.
+[surveillance,money] For that price you get a rumor and bus directions.
+[surveillance,food] The diner is neutral territory until someone takes my fries.
+[surveillance,work] I work nights. Secrets have inconvenient hours.
+[surveillance,technology] The encrypted file turned out to be a corrupt menu.
+[surveillance] Follow the man with the newspaper. Not me. The other one.
+[surveillance] This lead is cold. Like my apartment.
+[surveillance,money] Consider the tip complimentary. The context is billable.
+[surveillance,food] Order the soup if you're being followed. It's good soup.
+[surveillance] The truth is out there. Parking is difficult.

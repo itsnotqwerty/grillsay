@@ -1,16 +1,32 @@
-The grass doesn't care what your title is.
-Stay off the fresh seed. Yes, that means your shortcut.
-Leaf blower's broken. We're doing autumn manually.
-I know who moved the bench. The lawn remembers.
-That hedge took six years. Your frisbee can wait.
-Every morning I rake. Every night the trees disagree.
-You can book the park. You can't book the weather.
-The sprinkler timer and I are no longer speaking.
-Somebody planted mint. We live under mint law now.
-It's not dirt. It's soil. Dirt is what's in your office.
-The ducks have filed another complaint about lunch.
-I watered it, trimmed it, and asked it nicely. Now we wait.
-You want stripes in the lawn? Walk in straight lines.
-The sign says keep off for horticultural reasons and personal reasons.
-My rake has never needed a software update.
-The park opens at dawn. The weeds clock in earlier.
+[gardening] The grass doesn't care what your title is.
+[gardening] Stay off the fresh seed. Yes, that means your shortcut.
+[gardening] Leaf blower's broken. We're doing autumn manually.
+[gardening] I know who moved the bench. The lawn remembers.
+[gardening] That hedge took six years. Your frisbee can wait.
+[gardening] Every morning I rake. Every night the trees disagree.
+[gardening] You can book the park. You can't book the weather.
+[gardening] The sprinkler timer and I are no longer speaking.
+[gardening] Somebody planted mint. We live under mint law now.
+[gardening,work] It's not dirt. It's soil. Dirt is what's in your office.
+[food,gardening] The ducks have filed another complaint about lunch.
+[gardening] I watered it, trimmed it, and asked it nicely. Now we wait.
+[gardening] You want stripes in the lawn? Walk in straight lines.
+[gardening] The sign says keep off for horticultural reasons and personal reasons.
+[gardening,technology] My rake has never needed a software update.
+[gardening] The park opens at dawn. The weeds clock in earlier.
+[gardening] The roses are thriving out of spite. I'll take it.
+[gardening,work] My performance review was written by a committee of weeds.
+[gardening,technology] The smart sprinkler watered the rain.
+[gardening] This mulch has traveled farther than I have.
+[gardening,food] Those are ornamental cabbages. Stop planning lunch.
+[gardening] I prune for shape and occasionally for revenge.
+[gardening,work] The event ended yesterday. The confetti has a permanent position.
+[gardening] The hose has developed another strongly held knot.
+[gardening,money] The budget covers one flower and unlimited hope.
+[gardening] The squirrels are conducting unauthorized landscaping.
+[gardening,technology] Your drone is in my tree. My ladder has office hours.
+[gardening,food] The compost pile eats better than the staff.
+[gardening] Freshly painted bench. The sign is not decorative.
+[gardening,work] I maintain the path. I cannot maintain your sense of direction.
+[gardening] The hedge is level. The sidewalk is having a moment.
+[gardening,money] We ordered premium soil. The invoice was certainly rich.

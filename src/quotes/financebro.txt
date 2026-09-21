@@ -1,16 +1,32 @@
-It's not a cookout. It's a networking liquidity event.
-I diversified my portfolio across three identical fleece vests.
-The hot dog market is ripe for disruption.
-My dad's friend says I'm entirely self-made.
-I'm bullish on lunch. Extremely bearish on paying.
-That's not debt. That's a leveraged lifestyle.
-I can't explain the business, but the deck is incredible.
-We should grab coffee and explore synergies. You buy.
-I measure friendships in quarterly touchpoints.
-The spreadsheet says I can afford this personality.
-I bought the dip. There was another dip.
-My exit strategy is leaving before the check arrives.
-I don't grill. I allocate capital to the grilling vertical.
-Sleep is an underperforming asset, according to my podcast.
-The vest stays on. It's part of the valuation.
-We haven't made money yet, but our losses are scaling.
+[food,money,work] It's not a cookout. It's a networking liquidity event.
+[money] I diversified my portfolio across three identical fleece vests.
+[money] The hot dog market is ripe for disruption.
+[money] My dad's friend says I'm entirely self-made.
+[food,money] I'm bullish on lunch. Extremely bearish on paying.
+[money] That's not debt. That's a leveraged lifestyle.
+[money] I can't explain the business, but the deck is incredible.
+[food,money] We should grab coffee and explore synergies. You buy.
+[money] I measure friendships in quarterly touchpoints.
+[money] The spreadsheet says I can afford this personality.
+[money] I bought the dip. There was another dip.
+[money] My exit strategy is leaving before the check arrives.
+[food,money] I don't grill. I allocate capital to the grilling vertical.
+[fishing,money] Sleep is an underperforming asset, according to my podcast.
+[money] The vest stays on. It's part of the valuation.
+[money] We haven't made money yet, but our losses are scaling.
+[money,food] I see the buffet as an arbitrage opportunity.
+[money,work] My calendar is fully allocated to sounding busy.
+[money] The yacht is a vision-board asset.
+[money,technology] We added AI to the name. The product remains a spreadsheet.
+[money] I hedge my bets by explaining both outcomes in advance.
+[money,food] Let's expense the appetizers as market research.
+[money,work] My job title has more growth than the company.
+[money] The rent is high, but think of the elevator pitches.
+[money,technology] Our app monetizes the inconvenience of using our app.
+[money] I call it passive income because I'm not involved in earning it.
+[money,food] The coffee subscription is my most consistent return.
+[money,work] I'm between ventures. Mostly between couches.
+[money] My risk tolerance drops sharply when it's my money.
+[money,technology] The dashboard is green because I changed the color settings.
+[money] It's a long-term hold now. It wasn't supposed to be.
+[money,work] We pivoted from growth to explaining the lack of growth.

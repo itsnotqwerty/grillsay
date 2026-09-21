@@ -1,16 +1,32 @@
-Measure twice. Order the wrong part once.
-Who signed off on this? Besides me.
-That's a load-bearing coffee cup.
-We're on schedule if you don't look at the schedule.
-The drawing says straight. Let's start there.
-I asked for a level, not your opinion.
-If it moves and shouldn't, we've got a meeting.
-The estimate was accurate before reality got involved.
-Nobody touch that. I'm still deciding whose fault it is.
-Safety glasses on. Even for looking at this invoice.
-The apprentice labeled every cable OTHER.
-That's not scrap. That's tomorrow's missing part.
-We can do it right or do it again. Budget says right.
-My clipboard is ninety percent coffee ring.
-The deadline is concrete. Unfortunately, the concrete is late.
-Clean the site like the inspector knows the address.
+[work] Measure twice. Order the wrong part once.
+[work] Who signed off on this? Besides me.
+[food,work] That's a load-bearing coffee cup.
+[work] We're on schedule if you don't look at the schedule.
+[work] The drawing says straight. Let's start there.
+[work] I asked for a level, not your opinion.
+[work] If it moves and shouldn't, we've got a meeting.
+[work] The estimate was accurate before reality got involved.
+[work] Nobody touch that. I'm still deciding whose fault it is.
+[work] Safety glasses on. Even for looking at this invoice.
+[money,technology,work] The apprentice labeled every cable OTHER.
+[work] That's not scrap. That's tomorrow's missing part.
+[money,work] We can do it right or do it again. Budget says right.
+[food,work] My clipboard is ninety percent coffee ring.
+[work] The deadline is concrete. Unfortunately, the concrete is late.
+[work] Clean the site like the inspector knows the address.
+[work] Put a cone around it until we can put a plan around it.
+[work,technology] The tablet won't charge. The pencil remains operational.
+[work,food] Lunch starts when the concrete stops needing supervision.
+[work] The tool you borrowed is now the tool I'm looking for.
+[work] We found the pipe. Unfortunately, with the excavator.
+[work,money] The cheap option has become the expensive option with paperwork.
+[work] Don't eyeball it. Your eyeballs aren't calibrated.
+[work,technology] The laser level has better attendance than half the crew.
+[work,food] That's the lunch cooler, not a step stool.
+[work] Temporary fixes have the longest service life on this site.
+[work] If the tape measure disagrees, the tape measure wins.
+[work,money] The budget didn't account for discovering the actual building.
+[work,technology] The blueprint is in the cloud. The rain is on the blueprint.
+[work] Nobody goes home until we find the missing socket. So, tomorrow.
+[work,food] Coffee first. Then we discuss why the wall is there.
+[work] Put your name on your tools and your mistakes.

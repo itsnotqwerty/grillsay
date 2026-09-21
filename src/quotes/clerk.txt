@@ -1,16 +1,32 @@
-Take a number. No, not that number.
-Your application to skip the queue is in the queue.
-We need the original copy of your duplicate original.
-The system is down. Morale remains at its usual level.
-Please use black ink to explain why you used blue ink.
-This window handles questions about the other window.
-Your appointment was yesterday. We mailed the reminder tomorrow.
-I can stamp it received. I cannot stamp it understood.
-Lunch is a process, not a time.
-That form expired while you were filling it out.
-You need proof of address to update your proof of address.
-The printer has seniority over both of us.
-Have you tried submitting it incorrectly in the approved way?
-The supervisor is in a meeting about availability.
-Please retain this receipt for the receipt you will receive.
-Congratulations. You've qualified for an additional form.
+[work] Take a number. No, not that number.
+[technology,work] Your application to skip the queue is in the queue.
+[work] We need the original copy of your duplicate original.
+[work] The system is down. Morale remains at its usual level.
+[work] Please use black ink to explain why you used blue ink.
+[work] This window handles questions about the other window.
+[technology,work] Your appointment was yesterday. We mailed the reminder tomorrow.
+[work] I can stamp it received. I cannot stamp it understood.
+[food,work] Lunch is a process, not a time.
+[work] That form expired while you were filling it out.
+[technology,work] You need proof of address to update your proof of address.
+[technology,work] The printer has seniority over both of us.
+[technology,work] Have you tried submitting it incorrectly in the approved way?
+[work] The supervisor is in a meeting about availability.
+[work] Please retain this receipt for the receipt you will receive.
+[work] Congratulations. You've qualified for an additional form.
+[work] The express line processes disappointment twice as fast.
+[technology,work] Your password must contain a symbol of institutional decline.
+[food,work] The break room fridge requires a signed lunch declaration.
+[work] Please initial the box confirming you found the box.
+[work] We digitized the backlog. Now it's searchable despair.
+[money,work] There is a convenience fee for learning about the convenience fee.
+[work] Your case has been assigned a more reassuring shade of yellow.
+[technology,work] The scanner works if you believe in it and hit the side.
+[food] Coffee is the only department meeting its service targets.
+[work] We accept walk-ins. We simply don't process them.
+[work] This stamp means the other stamp was applied correctly.
+[money,work] Refund requests require proof of optimism.
+[technology,work] The portal has timed out for your convenience.
+[work] I can escalate this to a taller filing cabinet.
+[food,work] The microwave queue is managed by a separate office.
+[work] Your complaint about waiting will be heard in order of arrival.

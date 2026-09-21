@@ -1,0 +1,4 @@
+[food,work] Your coffee is ready. Your inbox is still your problem.
+[food,money] The foam is complimentary. The existential dread costs extra.
+[food,technology] The espresso machine needs a reboot. So do I.
+[work] I spelled your name correctly. Please don't tell management.

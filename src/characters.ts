@@ -32,34 +32,24 @@ import shrimpcasterQuotes from "./quotes/shrimpcaster.txt" with {
   type: "text",
 };
 
-export interface Character {
-  art: string;
-  quotes: string[];
-}
-
-function character(art: string, text: string): Character {
-  const quotes = text.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
-  if (!art.trim() || !quotes.length) {
-    throw new Error("Character assets must not be empty");
-  }
-  return { art, quotes };
-}
+import { character } from "./model.ts";
+export type { Character } from "./model.ts";
 
 export const characters = {
-  artho: character(arthoArt, arthoQuotes),
-  boomer: character(boomerArt, boomerQuotes),
-  clerk: character(clerkArt, clerkQuotes),
-  cyberhorse: character(cyberhorseArt, cyberhorseQuotes),
-  financebro: character(financebroArt, financebroQuotes),
-  fisherman: character(fishermanArt, fishermanQuotes),
-  foreman: character(foremanArt, foremanQuotes),
-  glangley: character(glangleyArt, glangleyQuotes),
-  groundskeeper: character(groundskeeperArt, groundskeeperQuotes),
-  informant: character(informantArt, informantQuotes),
-  interceptor: character(interceptorArt, interceptorQuotes),
-  rapper: character(rapperArt, rapperQuotes),
-  schizo: character(schizoArt, schizoQuotes),
-  shrimpcaster: character(shrimpcasterArt, shrimpcasterQuotes),
+  artho: character(arthoArt, arthoQuotes, 35),
+  boomer: character(boomerArt, boomerQuotes, 33),
+  clerk: character(clerkArt, clerkQuotes, 37),
+  cyberhorse: character(cyberhorseArt, cyberhorseQuotes, 36),
+  financebro: character(financebroArt, financebroQuotes, 32),
+  fisherman: character(fishermanArt, fishermanQuotes, 34),
+  foreman: character(foremanArt, foremanQuotes, 33),
+  glangley: character(glangleyArt, glangleyQuotes, 36),
+  groundskeeper: character(groundskeeperArt, groundskeeperQuotes, 32),
+  informant: character(informantArt, informantQuotes, 35),
+  interceptor: character(interceptorArt, interceptorQuotes, 34),
+  rapper: character(rapperArt, rapperQuotes, 31),
+  schizo: character(schizoArt, schizoQuotes, 31),
+  shrimpcaster: character(shrimpcasterArt, shrimpcasterQuotes, 36),
 };
 
 export type CharacterId = keyof typeof characters;

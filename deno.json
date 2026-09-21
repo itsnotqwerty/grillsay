@@ -1,16 +1,13 @@
 {
-  "name": "grillsay",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A cowsay-style cast of fourteen opinionated characters",
-  "main": "./src/main.ts",
-  "imports": {
-    "std/": "https://deno.land/std@0.208.0/"
-  },
   "tasks": {
-    "dev": "deno run --allow-read --unstable-raw-imports src/main.ts",
-    "grillsay": "deno run --allow-read --unstable-raw-imports src/main.ts",
-    "build": "deno compile --allow-read --unstable-raw-imports --output dist/grillsay src/main.ts",
-    "test": "deno test --unstable-raw-imports"
+    "dev": "deno run --allow-read --allow-write --allow-env=GRILLSAY_CHARACTERS,NO_COLOR,XDG_STATE_HOME,HOME,LOCALAPPDATA,USERPROFILE --unstable-raw-imports src/main.ts",
+    "grillsay": "deno run --allow-read --allow-write --allow-env=GRILLSAY_CHARACTERS,NO_COLOR,XDG_STATE_HOME,HOME,LOCALAPPDATA,USERPROFILE --unstable-raw-imports src/main.ts",
+    "build": "deno compile --allow-read --allow-write --allow-env=GRILLSAY_CHARACTERS,NO_COLOR,XDG_STATE_HOME,HOME,LOCALAPPDATA,USERPROFILE --unstable-raw-imports --output dist/grillsay src/main.ts",
+    "test": "deno test --allow-read --allow-write --allow-env --allow-run --unstable-raw-imports",
+    "check": "deno fmt --check && deno lint && deno check --unstable-raw-imports src/main.ts && deno task test",
+    "release-build": "deno run --allow-all --unstable-raw-imports scripts/build-release.ts"
   },
   "fmt": {
     "semiColons": true,

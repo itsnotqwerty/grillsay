@@ -1,38 +1,54 @@
-Gas grills are just outdoor microwaves.
-Lighter fluid is not a flavor. Charcoal is a flavor.
-I don't need a thermometer. I have hands.
-This grill was a wedding gift. My first wedding.
-You're flipping it too soon. You're always flipping it too soon.
-I've been seasoning this cast iron since before you were born.
-Kingsford. Not the fancy stuff. Kingsford.
-A little smoke never hurt anyone. Toughens you up.
-I once grilled in a thunderstorm. Best ribs of my life.
-This is a marinade. It has been marinating since Thursday.
-I don't do 'plant-based.' Plants are what the food eats.
-You can have my tongs when you pry them from my cold, well-seasoned hands.
-I seeded this lawn in 1987. It does not need your opinion.
-Get off my lawn. I mean it. I have a hose.
-You call that mowing? You missed a strip. Right there. That one.
-I edge by hand. With a spade. The way God intended.
-That dandelion didn't get there by itself. Someone let it happen.
-A brown lawn is a resting lawn. It'll come back. It always comes back.
-The neighbors got artificial turf. We don't talk anymore.
-I fertilize twice a year whether it needs it or not.
-My son-in-law works in finance. Very successful. Doesn't know how to use a rake.
-I'm not saying my son-in-law is useless. I'm saying he's never changed a tire.
-He brings wine to a cookout. Every time. Wine.
-My son-in-law offered to help. I said I'd let him know. I won't.
-He calls it a 'charcuterie board.' I call it cheese and crackers.
-We used to leave the doors unlocked. The neighborhood looked out for itself.
-We didn't have GPS. We got lost. We figured it out. Builds character.
-Back in my day you called someone on the phone and they answered it.
-We didn't have self-checkout. We had cashiers and we tipped our hats.
-I've had the same wallet since 1994. Still works fine.
-My first car cost two thousand dollars and I drove it for eleven years.
-My cholesterol is none of your business.
-Nobody under forty knows how to shake a hand.
-We didn't have avocado toast. We had leftovers and we were grateful.
-A firm handshake tells you everything you need to know about a person.
-I don't need an app to tell me when to sleep.
-We used to fix things. Now everything's disposable. Including manners.
-I'm not on social media. If you want to know what I think, come over.
+[food] Gas grills are just outdoor microwaves.
+[food] Lighter fluid is not a flavor. Charcoal is a flavor.
+[food] I don't need a thermometer. I have hands.
+[food] This grill was a wedding gift. My first wedding.
+[food] You're flipping it too soon. You're always flipping it too soon.
+[fishing,food] I've been seasoning this cast iron since before you were born.
+[food] Kingsford. Not the fancy stuff. Kingsford.
+[food] A little smoke never hurt anyone. Toughens you up.
+[food] I once grilled in a thunderstorm. Best ribs of my life.
+[food] This is a marinade. It has been marinating since Thursday.
+[food] I don't do 'plant-based.' Plants are what the food eats.
+[food] You can have my tongs when you pry them from my cold, well-seasoned hands.
+[food,gardening] I seeded this lawn in 1987. It does not need your opinion.
+[food,gardening] Get off my lawn. I mean it. I have a hose.
+[food,gardening] You call that mowing? You missed a strip. Right there. That one.
+[food] I edge by hand. With a spade. The way God intended.
+[food,gardening,technology] That dandelion didn't get there by itself. Someone let it happen.
+[food,gardening] A brown lawn is a resting lawn. It'll come back. It always comes back.
+[food,gardening] The neighbors got artificial turf. We don't talk anymore.
+[food,gardening] I fertilize twice a year whether it needs it or not.
+[food,gardening,work] My son-in-law works in finance. Very successful. Doesn't know how to use a rake.
+[food] I'm not saying my son-in-law is useless. I'm saying he's never changed a tire.
+[food] He brings wine to a cookout. Every time. Wine.
+[food] My son-in-law offered to help. I said I'd let him know. I won't.
+[food] He calls it a 'charcuterie board.' I call it cheese and crackers.
+[food] We used to leave the doors unlocked. The neighborhood looked out for itself.
+[food] We didn't have GPS. We got lost. We figured it out. Builds character.
+[food] Back in my day you called someone on the phone and they answered it.
+[food] We didn't have self-checkout. We had cashiers and we tipped our hats.
+[food,work] I've had the same wallet since 1994. Still works fine.
+[food,money] My first car cost two thousand dollars and I drove it for eleven years.
+[food] My cholesterol is none of your business.
+[food] Nobody under forty knows how to shake a hand.
+[food] We didn't have avocado toast. We had leftovers and we were grateful.
+[food] A firm handshake tells you everything you need to know about a person.
+[food,technology] I don't need an app to tell me when to sleep.
+[food] We used to fix things. Now everything's disposable. Including manners.
+[food] I'm not on social media. If you want to know what I think, come over.
+[food] Rest the meat. You've been resting all afternoon; let it have a turn.
+[food] The secret ingredient is leaving the lid alone.
+[gardening] A leaf landed on my driveway. There goes the afternoon.
+[technology] My thermostat has a password. It used to have a dial.
+[work] You can put that meeting on my calendar. I don't own one.
+[food] These ribs have a longer retirement plan than you do.
+[gardening] The mower starts on the second pull. First pull is a courtesy.
+[technology] The doorbell updated itself. Nobody asked the doorbell.
+[food] Potato salad should not require an introduction.
+[money] They charge extra for distressed jeans. I have a garage full.
+[gardening] Rain's coming. I can tell because I just washed the truck.
+[work] I retired from work, not from supervising.
+[technology] If the grill needs Bluetooth, it's a printer.
+[food] I brought my own mustard. I know how these things go.
+[money] That patio chair cost more than my first transmission.
+[gardening] A good fence keeps the neighbor's landscaping suggestions out.
