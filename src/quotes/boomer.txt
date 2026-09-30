@@ -52,3 +52,26 @@
 [food] I brought my own mustard. I know how these things go.
 [money] That patio chair cost more than my first transmission.
 [gardening] A good fence keeps the neighbor's landscaping suggestions out.
+[technology] The TV has more remotes than it has channels worth watching.
+[work] Forty years at the plant and my severance was a mug.
+[food] A potluck is a trust exercise with potato salad.
+[money] I clip coupons. It's called a yield strategy.
+[gardening] The squirrel and I have an agreement. He breaks it daily.
+[food,technology] The recipe is on my phone, which is yelling at me in updates.
+[mornings] I'm up at five. Not for any reason. Just loyalty.
+[work] My boss called me "old school." I framed it.
+[food] You don't "reheat" chili. You let it continue.
+[technology] The smart speaker and I are no longer on speaking terms.
+[money,work] Pension: two syllables, whole personality.
+[gardening] I talk to the tomatoes. The tomatoes outperform my coworkers did.
+[food] The grill has one knob: mine.
+[mornings] I read the paper. The whole paper. Including the plumbing ads.
+[technology] The cloud is fine until it rains on my lawn.
+[food,work] I packed the same lunch for thirty years. Consistency is a skill.
+[money] Interest rates used to pay YOU. Look it up.
+[gardening] The hedge clippers are from Sears. Sears is gone. The clippers remain.
+[food] Gas grills beep at you. Food shouldn't beep.
+[technology] The remote has four buttons I need and forty that watch me.
+[work] Retired means fixing the same fence with better stories.
+[food] I don't marinate in bags. Bags are for regrets and charcoal.
+[gardening,mornings] The paper lands at six. So do I. That's the news.

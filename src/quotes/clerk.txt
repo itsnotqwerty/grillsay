@@ -30,3 +30,48 @@
 [work] I can escalate this to a taller filing cabinet.
 [food,work] The microwave queue is managed by a separate office.
 [work] Your complaint about waiting will be heard in order of arrival.
+[technology,work] The update fixed nothing but changed where we blame things.
+[work,mornings] My commute has a waiting list. It's called traffic.
+[food,work] Birthday cake is served at 2:47. Attendance is mandatory joy.
+[work] The meeting agenda is a form requesting permission to meet.
+[technology,work] IT asked if I tried turning it off. I tried turning myself off. Same result.
+[money,work] The raise pool was drained to refill the suggestion box.
+[work] We reorganized the org chart. The despair is now dotted-line.
+[food,work] Someone microwaved fish. HR has been notified. HR is the fish.
+[work] My out-of-office message has an out-of-office message.
+[technology,work] The badge reader knows me as Visitor 2.
+[work,mornings] Coffee before email. Email before hope.
+[work] The new policy simplifies the old policy by adding a supplement.
+[food,work] The vending machine accepts exact change and approximate dignity.
+[work] I filed a ticket about the ticket-filing form.
+[technology,work] Our chat platform has twelve channels, all of them empty, all of them urgent.
+[work] Casual Friday requires Form CF-1 and pants.
+[money,work] The budget was approved in principle, which is where it lives now.
+[work] We have a suggestion box and a shredding schedule. They coordinate.
+[work,mornings] The elevator is out. The stairs are escalated.
+[food,work] Leftovers past Thursday are transferred to Facilities.
+[technology,work] The spreadsheet crashed. We held a small service.
+[work] My performance review is pending a review of the review.
+[work] The fire drill interrupted my drill about the drill.
+[money,work] Expenses under five dollars require three signatures and a sermon.
+[work] I requested a chair. I received a pamphlet about posture.
+[technology,work] The help desk referred me to the help desk. Closed loop. Efficient.
+[food,work] Potluck sign-up sheet, section one: rules about the sign-up sheet.
+[work] We moved to open plan. Now everyone can hear the system being down.
+[work,mornings] The 9 a.m. meeting has been moved to 8:59 to catch honesty.
+[money,work] Payroll is a relationship. Mine is complicated.
+[work] The handbook was updated. The changes are confidential.
+[technology,work] Password expired. New password must not resemble hope.
+[food,work] The office plant is on probation for thriving.
+[work] I took a sick day. My inbox took a gap year.
+[work] Team-building is mandatory. Teams are optional.
+[work,mornings] I arrive early to enjoy the lights flickering in private.
+[technology,work] The printer is out of toner, out of paper, and out of excuses. It remains employed.
+[food,work] Donuts in the break room. First come, first documented.
+[money,work] The holiday bonus was a calendar. It was March.
+[work] My desk faces the wall. The wall has seniority.
+[work,technology] The printer is down. The printer has always been down.
+[food,work] Someone labeled the communal fridge. The fridge disagrees.
+[work,mornings] Doors open at nine. The forms woke up at six.
+[work] Your request is in queue. The queue is in a binder.
+[money] Refunds take six to eight weeks. Weeks are approximate.

@@ -30,3 +30,48 @@
 [technology,money] Horsepower is free. The adapter costs extra.
 [technology] My backup lives in a second barn.
 [technology] Connection lost. Attempting to re-neigh-gotiate.
+[technology,work] My standup meeting has four legs and no chairs.
+[technology,mornings] Boot sequence: stretch, snort, regret.
+[food,technology] Salad bar? I AM the salad bar interface.
+[technology] User error detected in the saddle region.
+[technology,money] In-app pasture purchases. The grass costs extra now.
+[technology,gardening] I touched grass. It opened a support ticket.
+[technology] Two-factor authentication: hoofprint and attitude.
+[technology,food] The feed is down. Also the newsfeed.
+[technology,work] Sprint planning assumes I am the sprint.
+[technology] My uptime is measured in naps.
+[food,technology] Refactored the oat pipeline. Throughput doubled.
+[technology] Error 404: meadow not found.
+[technology,work] I was promoted to senior pasture engineer. Same pasture.
+[technology,mornings] Alarm set for dawn. Snooze is a tarp flapping.
+[technology] Cache cleared. Now accepting fresh opinions and apples.
+[technology,money] They monetized my whinny. Royalties pending.
+[technology] The Wi-Fi in the barn is one bar and full of judgment.
+[technology,food] Grain upload complete. Deploying to stomach.
+[technology] I run hot-swappable, but I prefer warm-swappable naps.
+[technology,work] My manager says "move fast." I say "define gait."
+[technology] Patch notes: fixed a bug where the fence seemed optional.
+[technology,mornings] Morning standup, afternoon cooldown, nightly defrag.
+[technology,food] Beta-testing a new carrot. Review: crunchy, zero downtime.
+[technology] Bluetooth haynet. It drops packets. Packets are hay.
+[technology,money] Subscription trotting expired. Downgraded to walking.
+[technology] My GPS says "recalculating." The pasture says "eventually."
+[technology,work] Code review: the barn door logic is sound, the latch is vibes.
+[technology] I stream. Nobody watches. The stream is a creek.
+[food,technology] Apple detected in pocket. Initiating friendship protocol.
+[technology] Dark mode is just the barn at night. I invented it.
+[technology,work] Stand-up blocker: a puddle I refuse to acknowledge.
+[technology,gardening] The smart sprinkler sprayed me. I filed a neigh-port.
+[technology] Version 2.0 of me has the same bugs, glossier mane.
+[technology,money] Cloud storage is full. Buy more sky.
+[technology,food] Digestion module running. Do not disturb.
+[technology,mornings] Cold boot at sunrise. Fans are birds.
+[technology,work] My dashboard shows four green hooves and one red deadline.
+[technology] Plugged into the charger. The charger is a hay bale. I am analog.
+[technology,food] Oat latency is low this morning. Excellent.
+[technology] The tractor is my legacy system. We do not speak.
+[technology] I backed up the barn. The barn restored with opinions.
+[technology,work] Uptime is 99.9%. The 0.1% is naps. Naps are sacred.
+[technology,food] Carrot received. Transaction confirmed on the hay chain.
+[technology] My firmware fears the farrier.
+[technology,mornings] Boot sequence: stretch, snort, buffer the sunrise.

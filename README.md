@@ -2,7 +2,7 @@
 
 > It's like `cowsay`, but the entire neighborhood has opinions.
 
-Fourteen built-in characters, matching ASCII artwork, and **470 quotes**
+Thirteen built-in characters, matching ASCII artwork, and **1000 quotes**
 spanning food, work, technology, money, fishing, gardening, art, music,
 surveillance, and absurd conspiracies. Say something yourself, pipe in a
 message, or let the cast speak for itself.
@@ -168,23 +168,22 @@ of a quote.
 
 | ID              | Voice                                              | Quotes |
 | --------------- | -------------------------------------------------- | -----: |
-| `artho`         | Art-school critique, galleries, and rent           |     32 |
-| `boomer`        | Grilling, lawn care, and unsolicited advice        |     54 |
-| `clerk`         | Forms, queues, and recursive bureaucracy           |     32 |
-| `cyberhorse`    | Equine firmware and pasture computing              |     32 |
-| `financebro`    | Startup and investment bravado                     |     32 |
-| `fisherman`     | Tall tales, tackle, and one more cast              |     32 |
-| `foreman`       | Job-site deadlines and clipboard wisdom            |     32 |
-| `glangley`      | An implausibly ordinary undercover neighbor        |     32 |
-| `groundskeeper` | Weeds, park maintenance, and turf grievances       |     32 |
-| `informant`     | Back-alley tips and questionable sources           |     32 |
-| `interceptor`   | A surveillance van with unconvincing cover stories |     32 |
-| `rapper`        | DIY music, wordplay, and cookout bars              |     32 |
-| `schizo`        | All-caps technobabble and cosmic conspiracies      |     32 |
-| `shrimpcaster`  | Shrimp-bait fishing as a mystical vocation         |     32 |
+| `artho`         | Art-school critique, galleries, and rent           |     77 |
+| `boomer`        | Grilling, lawn care, and unsolicited advice        |     77 |
+| `clerk`         | Forms, queues, and recursive bureaucracy           |     77 |
+| `cyberhorse`    | Equine firmware and pasture computing              |     77 |
+| `financebro`    | Startup and investment bravado                     |     77 |
+| `fisherman`     | Tall tales, tackle, and one more cast              |     77 |
+| `foreman`       | Job-site deadlines and clipboard wisdom            |     76 |
+| `glangley`      | An implausibly ordinary undercover neighbor        |     77 |
+| `groundskeeper` | Weeds, park maintenance, and turf grievances       |     77 |
+| `informant`     | Back-alley tips and questionable sources           |     77 |
+| `interceptor`   | A surveillance van with unconvincing cover stories |     77 |
+| `rapper`        | DIY music, wordplay, and cookout bars              |     77 |
+| `schizo`        | All-caps technobabble and cosmic conspiracies      |     77 |
 
-All earlier quotes are retained, with topic metadata added. This upgrade adds
-224 quotes across all 14 characters.
+All earlier quotes are retained, with topic metadata added. This upgrade expands
+the roster to exactly 1000 quotes across 13 characters.
 
 ## Custom character packs
 

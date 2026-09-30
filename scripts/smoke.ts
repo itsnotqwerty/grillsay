@@ -57,7 +57,7 @@ try {
     );
   }
   assert(
-    (await run(["--list-characters"])).out.trim().split("\n").length === 14,
+    (await run(["--list-characters"])).out.trim().split("\n").length === 13,
     "List",
   );
   assert((await run(["--help"])).code === 0, "Help");

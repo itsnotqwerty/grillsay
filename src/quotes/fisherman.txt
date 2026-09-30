@@ -11,7 +11,7 @@
 [fishing,money] My best lure is the one currently attached to that tree.
 [fishing] The river doesn't care about your calendar.
 [fishing] One more cast is a unit of time with no fixed length.
-[fishing] I know a shortcut to the lake. Bring walking shoes.
+[fishing] I know a shortcuo the lake. Bring walking shoes.
 [fishing] The boat has two speeds: expensive and more expensive.
 [fishing] Don't tell the fish I took the day off.
 [fishing] The knot held. The branch came with it.
@@ -30,3 +30,48 @@
 [fishing] The best spot is always on the other bank.
 [fishing,money] The tackle shop knows my financial weaknesses by color.
 [fishing] I released it immediately. It was a boot.
+[fishing,mornings] If it was a "good morning" I'd be out on the lake already.
+[fishing,food] Yeah, haha. "Tune a sandwich," haven't heard that one before.
+[fishing,mornings] Sunrise is just the lake clocking in.
+[fishing] The wind changed. So did my excuse.
+[fishing,work] Monday meetings are why the fish fear nothing.
+[fishing,food] The thermos is older than the marriage and twice as reliable.
+[fishing] I don't get lost. I survey alternative routes home.
+[fishing,technology] The fish finder and I disagree about the definition of "fish."
+[fishing,money] The boat payment is due. The fish are unbothered.
+[fishing] A bad knot is a good story with a missing ending.
+[fishing,mornings] Coffee tastes better with a lake permit and no agenda.
+[fishing,food] I cleaned the catch. Both bites were delicious.
+[fishing] The lake is flat, the fish are deep, my patience is somewhere in between.
+[fishing,work] My boss thinks I'm at the dentist. The dentist thinks I'm fishing. The fish know everything.
+[fishing] I wave at other boats. We share the brotherhood of pretending we caught something.
+[fishing,technology] The GPS took me to the lake. The lake took me to church.
+[fishing,money] Every lure purchase is justified retroactively.
+[fishing] The one that got away now has its own theme music.
+[fishing,food] Worms in the fridge. Label them or lose them, house rule.
+[fishing,mornings] The fog burns off. My ambition stays.
+[fishing] I don't do small talk. I do long casts.
+[fishing,work] Productivity peaks whenever I'm holding a rod.
+[fishing,food] Grilled fish tonight. The fish supplied nothing. I supplied the grill.
+[fishing,technology] Autocorrect keeps changing "pike" to "like." Close enough; I like pike.
+[fishing] The cooler is half ice, half optimism.
+[fishing,money] A rod on sale is a rod already purchased.
+[fishing] The tide chart is my horoscope and it's always favorable-ish.
+[fishing,mornings] 4 a.m. alarms are a lifestyle the bed doesn't support.
+[fishing,work] My performance review said "drifts." I called it a compliment.
+[fishing] I talk to the minnows. They ghost me too.
+[fishing,food] Shore lunch: beans, beans, and a suspicious third bean.
+[fishing,technology] The reel's drag sings. The song is called "almost."
+[fishing] I've been skunked so often the skunks send cards.
+[fishing,money] The guide said "follow me." That was the whole guide.
+[fishing] My lucky hat is just a hat. Don't tell the hat.
+[fishing,work] Deadlines are flexible. The mayfly hatch is not.
+[fishing,food] Fish tacos taste better with a plausible backstory.
+[fishing,mornings] The lake at dawn forgives all alarm clocks.
+[fishing,technology] I downloaded a knot app. Now my knots have updates.
+[fishing] The dock remembers every story. It charges a small fee in splinters.
+[fishing,technology] The fish finder locates everything except fish. Mostly it locates my confidence.
+[fishing,food] I caught nothing, so lunch is a sandwich of plausible deniability.
+[fishing] The fish are educated out here. I'm the substitute teacher.
+[fishing,work] My out-of-office reply is a tide chart.
+[fishing] A bad lure is just a gift to a smarter fish.

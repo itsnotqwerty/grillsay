@@ -141,7 +141,7 @@ Deno.test("pack loading, tags, all selection and collisions", async () => {
     assert(registry.tester.entries[1].topics.includes("general"));
     const all = parseArgs([], "", null);
     validateSelection(all, Object.keys(registry));
-    assert(all.enabledCharacters.length === 15);
+    assert(all.enabledCharacters.length === 14);
     let failed = false;
     try {
       await loadPacks(registry, [dir]);
@@ -194,7 +194,7 @@ Deno.test("history roundtrip, absent file, corrupt file and platform paths", asy
 });
 Deno.test("expanded builtin quotes retain diversity and topic coverage", () => {
   const quotes = Object.values(characters).flatMap((c) => c.quotes);
-  assert(quotes.length === 470 && new Set(quotes).size === 470);
+  assert(quotes.length >= 1000 && new Set(quotes).size === quotes.length);
   for (const c of Object.values(characters)) {
     assert(c.quotes.length >= 32);
     assert(new Set(c.entries.flatMap((q) => q.topics)).size >= 3);

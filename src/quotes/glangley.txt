@@ -30,3 +30,48 @@
 [surveillance,technology] My phone has two weather apps and no other visible features.
 [surveillance] Let's keep in touch. Infrastructure is already in place.
 [surveillance] I brought a board game. It establishes patterns of cooperation.
+[surveillance,food] This casserole is homemade in the sense that it was assembled at a facility.
+[surveillance,work] Team-building exercise: everyone share a fact and a frequent contact.
+[surveillance,mornings] I jog here every morning at this exact relatable time.
+[surveillance,technology] My smartwatch says I am relaxed. The smartwatch is optimistic.
+[surveillance,food] Delicious dip. Recipe? Ingredients? Supplier? Supplier's hours?
+[surveillance] I collect sports opinions. Yours appears collectible.
+[surveillance,work] Our office picnic is also at this park. What a recurring coincidence.
+[surveillance,mornings] Good morning, neighbor. Your newspaper interests us both.
+[surveillance,food] I too enjoy grilling. State your preferred fuel source for fun.
+[surveillance,technology] Please accept this totally generic flash drive of vacation photos.
+[surveillance] Small talk is my passion. Begin.
+[surveillance,work] I am between jobs, which is a job where I come from.
+[surveillance,food] Your potato salad has layers. Like a briefing.
+[surveillance,technology] The drone above is a hobbyist's. The hobby is you.
+[surveillance] I noticed your bumper sticker. We are all bumper stickers.
+[surveillance,mornings] The sunrise is beautiful at 0500. I mean... whenever.
+[surveillance,food] More lemonade? Hydration is important to the dataset.
+[surveillance,work] Casual Fridays are when surveillance wears khakis.
+[surveillance] I have memorized zero facts about you. Please stop confirming them.
+[surveillance,technology] My phone takes group photos with excellent metadata.
+[surveillance,food] Which cooler is yours? I ask as a fellow cooler enthusiast.
+[surveillance] Let us exchange contact information. I will go first. And second.
+[surveillance,work] My cover story has a cover story. Both love this neighborhood.
+[surveillance,mornings] You walk the dog at six. The dog has a great routine. Continue.
+[surveillance,food] The recipe is safe with me. Few things are.
+[surveillance,technology] This antenna is a kite. Wind conditions are classified.
+[surveillance] I find everyone equally interesting, in a prioritized order.
+[surveillance,food] Seconds on ribs? Noted. Not judging. Recording is not judging.
+[surveillance,work] We should carpool sometime. Your route is already optimized.
+[surveillance] I enjoy long walks past the same house.
+[surveillance,technology] Free Wi-Fi at this cookout. The password is your childhood street.
+[surveillance,food] Bring a plus-one next time. Preferably the one from Thursday.
+[surveillance,mornings] Your garbage day is Tuesday. Mine too. Bonding.
+[surveillance,work] I'm self-employed. The self reports to a committee.
+[surveillance] No need to whisper. Whispering adds noise.
+[surveillance,food] This burger is exactly medium-rare. As are most answers.
+[surveillance,technology] My glasses are not recording. They are remembering fondly.
+[surveillance] Let's play charades. I'll go first: completely normal citizen.
+[surveillance,food] The secret ingredient is safe with us. All secrets are.
+[surveillance,work] My performance review is conducted by your barbecue attendance.
+[surveillance] I jog here often. The route is a coincidence with mileage.
+[surveillance,technology] Lovely weather. The satellite agrees. Hypothetically.
+[surveillance,food] This dip is incredible. What's in it? Names, please. All of them.
+[surveillance] I'm between jobs. The jobs are between you and that fence.
+[surveillance,mornings] Beautiful sunrise. Confirmed independently at 06:14.

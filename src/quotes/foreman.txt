@@ -30,3 +30,47 @@
 [work] Nobody goes home until we find the missing socket. So, tomorrow.
 [work,food] Coffee first. Then we discuss why the wall is there.
 [work] Put your name on your tools and your mistakes.
+[work,mornings] First one here turns on the lights and the complaining.
+[food,work] Whoever took my sandwich is now part of the schedule.
+[work,technology] The tablet wants a password. The wall wants a straight answer.
+[work] Punch list items reproduce when unobserved.
+[money,work] Change order: the client changed, so we ordered.
+[work] "While you're here" are the four most expensive words in construction.
+[food,work] The taco truck knows our crew by name and by debt.
+[work,mornings] Toolbox talk at six. Attendance is taken by the coffee.
+[work] We don't have problems. We have features awaiting explanation.
+[work,technology] The drone surveyed the site and reported back: yes, still a mess.
+[work] The inspector liked us. I checked his pulse.
+[money,work] Under budget is a rumor we tell the new guys.
+[work,food] Hydration is a safety metric. So is sandwich integrity.
+[work] The plan changed on the drive over. Classic plan.
+[work,mornings] Sunrise pours are great until the coffee goes in the footing.
+[work] I asked for a rough estimate. I got a rough guess wearing a hard hat.
+[work,technology] The scheduling software has never met weather.
+[work] That wall is load-bearing. So is the foreman. One of them complains.
+[food,work] Friday barbecue at lunch. Grilling is the only trade with no callbacks.
+[money,work] Overtime is how the budget apologizes.
+[work] The apprentice measured once. We now have a decorative gap.
+[work] I don't raise my voice. The echo raises it for me.
+[work,technology] Email the photo of the whiteboard photo of the plan. Workflow.
+[work,mornings] Early crew gets the good parking and the bad news.
+[work] The plans are in the trailer. The trailer is a rumor.
+[food,work] The coffee maker is the only machine that never breaks. It's protected.
+[money,work] We bid it tight. Now we wear the bid.
+[work] "Done" means done, inspected, and photographed from two angles.
+[work,technology] The laser says level. My knees say otherwise. Tie goes to the laser.
+[work] Rain delay: nature's punch list.
+[food,work] Somebody labeled their lunch "DO NOT TOUCH." It was touched. Investigation Monday.
+[work] The crane operator waves. That's the site-wide morning briefing.
+[work,money] Every "quick favor" gets its own invoice number in my heart.
+[work] The plans say one thing. The building says its piece. I mediate.
+[work,technology] The two-way radio cuts out only for the word "stop."
+[work] We build it right because redoing it left is worse.
+[work,mornings] I drink my coffee black, like the schedule's soul.
+[food,work] The break room microwave has seniority and a criminal record.
+[work] Inspect the work like your name's on it. Because it is. I wrote it there.
+[work,mornings] The plan changed before coffee. Coffee adjusted accordingly.
+[work,money] The budget has opinions. None of them load-bearing.
+[work,technology] The schedule is a PDF now. The delays remain analog.
+[work] Good help is hard to find. So is the left-handed hammer, apparently.
+[work] Punch list done. The building applauded. Quietly. In settling noises.

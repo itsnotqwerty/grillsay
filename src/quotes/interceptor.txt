@@ -30,3 +30,48 @@
 [surveillance,work] Our cover business has accidentally become profitable.
 [surveillance,food] The microwave interference is coming from our microwave.
 [surveillance] Package delivered. It's replacement windshield wipers.
+[surveillance,food] Dispatch, the subject's brisket has been marinating since Thursday. Escalate?
+[surveillance,mornings] 0600 shift. Subject still asleep. Jealousy logged.
+[surveillance,technology] New software update. It just makes the hum fancier.
+[surveillance,work] Performance review: "excellent loitering, needs quieter snacks."
+[surveillance,food] Cover story: we're a food truck that never opens. Flawless.
+[surveillance,money] The van's coffee budget exceeds the van.
+[surveillance] Subject waved at us again. Wave back. Blend. Over.
+[surveillance,mornings] Dawn watch: birds, dew, one suspicious jogger. He's a regular.
+[surveillance,food] Dispatch, subject has bought lighter fluid and a suspicious amount of corn.
+[surveillance,work] The new guy waved at the target. The target waved back. Protocol wept.
+[surveillance,food] Morale pizza Friday. The van has never been more operational.
+[surveillance,money] Budget cuts. We now surveil in one direction only.
+[surveillance] The van got recognized at the gas station. We gave a loyalty wave.
+[surveillance,work] Our cover business got a five-star review. HQ is furious and proud.
+[surveillance,technology] The parabolic mic picked up a recipe. Classified: delicious.
+[surveillance,food] Dispatch, the subject is marinating again. Marinating is not a crime. Noted.
+[surveillance] The neighborhood survey now includes a raffle. Participation is mandatory-looking.
+[surveillance,work] New guy ordered delivery to the van. To the van.
+[surveillance,food] Subject flipped the burgers with confidence. Logged as experienced.
+[surveillance,money] The coffee stipend was cut. Surveillance is now artisanal and slow.
+[surveillance,technology] The camera battery died during the gazebo reveal. We rely on memory now.
+[surveillance] Kids drew chalk arrows pointing at the van. Security compromised by hopscotch.
+[surveillance,work] The new guy introduced himself as Greg from utilities. His name is Dave. Progress.
+[surveillance,food] Dispatch, the cookout has vegetarian options now. Threat level: inclusive.
+[surveillance] We've been parked so long the parking meters wave back.
+[surveillance,money] The cover business out-earns the department. We're a bakery with clearance now.
+[surveillance,technology] New guy streamed the stakeout. Three viewers. One was the subject.
+[surveillance,food] Subject's brisket update: wrapped at hour six. The whole van saluted.
+[surveillance,work] Quarterly metric: number of times mistaken for a food truck. Trending up.
+[surveillance] The van has a street nickname now. It's Greg. New guy is thrilled.
+[surveillance,technology] The van's router is called Definitely_Not_The_Van. Believable.
+[surveillance,food] Dispatch, subject bought buns in bulk. Bulk buns. Prepare the weekend team.
+[surveillance,work] Morale initiative: we choose the hum frequency on Fridays.
+[surveillance,money] Budget review asked why we need two thermoses. Thermos redundancy is doctrine.
+[surveillance] Subject is mowing in a spiral. Either code or a cry for help. Logging both.
+[surveillance,technology] The drone got stuck in the elm. The elm is now a listening post.
+[surveillance,food] Survey says nine of ten neighbors like the sandwich van. We don't sell sandwiches.
+[surveillance,work] New guy asked if we're the bad guys. Orientation rescheduled.
+[surveillance,money] They cut the antenna budget. We now surveil vibes.
+[surveillance,food] Subject's potato salad contains raisins. Escalating to no one. We have no one.
+[surveillance,technology] The equipment is top of the line. From 1994. It hums with heritage.
+[surveillance,work] Team-building Friday. We surveilled each other. Bonding achieved.
+[surveillance,food] Dispatch, the grill smoke smells incredible. Requesting lunch. Denied. Noted.
+[surveillance] The van got a door ding. Our cover now has character.
+[surveillance,mornings] Shift change at dawn. The birds requested a transfer.

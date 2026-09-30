@@ -5,8 +5,8 @@ import { render } from "./render.ts";
 function assert(condition: boolean): asserts condition {
   if (!condition) throw new Error("Assertion failed");
 }
-Deno.test("all fourteen characters have art and distinct quotes", () => {
-  assert(characterIds.length === 14);
+Deno.test("all thirteen characters have art and distinct quotes", () => {
+  assert(characterIds.length === 13);
   const seen = new Set<string>();
   for (const character of Object.values(characters)) {
     assert(character.art.trim().length > 0);
@@ -19,9 +19,9 @@ Deno.test("all fourteen characters have art and distinct quotes", () => {
   }
 });
 Deno.test("default, all, single, subset, deduplication and last flag wins", () => {
-  assert(parseArgs([]).enabledCharacters.length === 14);
+  assert(parseArgs([]).enabledCharacters.length === 13);
   assert(
-    parseArgs(["--enabled-characters=all"]).enabledCharacters.length === 14,
+    parseArgs(["--enabled-characters=all"]).enabledCharacters.length === 13,
   );
   assert(
     parseArgs(["--enabled-characters", "boomer"]).enabledCharacters.join() ===

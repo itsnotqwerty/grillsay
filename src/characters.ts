@@ -27,10 +27,6 @@ import rapperArt from "./art/rapper.txt" with { type: "text" };
 import rapperQuotes from "./quotes/rapper.txt" with { type: "text" };
 import schizoArt from "./art/schizo.txt" with { type: "text" };
 import schizoQuotes from "./quotes/schizo.txt" with { type: "text" };
-import shrimpcasterArt from "./art/shrimpcaster.txt" with { type: "text" };
-import shrimpcasterQuotes from "./quotes/shrimpcaster.txt" with {
-  type: "text",
-};
 
 import { character } from "./model.ts";
 export type { Character } from "./model.ts";
@@ -49,7 +45,6 @@ export const characters = {
   interceptor: character(interceptorArt, interceptorQuotes, 34),
   rapper: character(rapperArt, rapperQuotes, 31),
   schizo: character(schizoArt, schizoQuotes, 31),
-  shrimpcaster: character(shrimpcasterArt, shrimpcasterQuotes, 36),
 };
 
 export type CharacterId = keyof typeof characters;

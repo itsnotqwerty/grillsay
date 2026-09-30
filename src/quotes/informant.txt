@@ -30,3 +30,48 @@
 [surveillance,money] Consider the tip complimentary. The context is billable.
 [surveillance,food] Order the soup if you're being followed. It's good soup.
 [surveillance] The truth is out there. Parking is difficult.
+[surveillance,money] The good stuff costs extra. The free stuff is what I tell the cops.
+[surveillance,food] Two booths, back corner. One of them is a trap. Both have pie.
+[surveillance,work] My hours are whenever someone's lying.
+[surveillance,mornings] I don't do mornings. Mornings have witnesses.
+[surveillance,technology] Encrypt everything. Even the grocery list has enemies.
+[surveillance,food] The coffee here is terrible. That's why we talk here.
+[surveillance,money] Retainer's due. Loyalty itemizes by the hour.
+[surveillance] I heard a rumor about me. I started it. Quality control.
+[surveillance,money] Rates are tiered. Gossip's a dollar. Motive costs five.
+[surveillance,food] Vending machine, third button from the left. That's where the truth jams.
+[surveillance] You didn't hear it from me. You barely heard it at all. That's the service.
+[surveillance] Trench coat in July. Commitment to the aesthetic is not negotiable.
+[surveillance,work] My best source works landscaping. The hedges hear everything.
+[surveillance] The HOA is a powder keg. I sell matches. Metaphorically. Also lighters.
+[surveillance] Dead drop's in the Little Free Library. Take a secret, leave a secret.
+[surveillance,money] Exact change only. I don't make change. I make history.
+[surveillance,food] The vending machine gets restocked Tuesdays. The machine talks when it's full.
+[surveillance,work] The landscaping crew sees all. They mulch in silence and talk in riddles.
+[surveillance,money] Rumors about the treasurer are premium. His lawn gnome situation is extra.
+[surveillance] Somebody's painting their door without a permit. I know who. So does the color wheel.
+[surveillance,money] Free sample: the meeting ran long. The rest of that sentence costs you.
+[surveillance,food] We meet by the vending machine because trust is also expired but still sold.
+[surveillance] I deal in whispers. Business has been loud.
+[surveillance,work] My informant network is one guy with binoculars and a grudge. Excellent uptime.
+[surveillance] The HOA minutes don't match the minutes I heard. Interesting, no?
+[surveillance,money] Payment up front. Secrets depreciate faster than a sedan.
+[surveillance,food] Bring two coffees. One is for me. The other is for the arrangement.
+[surveillance] The alley behind the bakery has great acoustics. The bakery has great cover.
+[surveillance,technology] I don't use email. My secrets travel by hat tip.
+[surveillance] The Little Free Library has a book with a hollow middle. Check the mystery section.
+[surveillance,money] Good gossip is seasonal. Like oysters, but with subpoenas.
+[surveillance] Somebody's cousin is moving back in. That's not a rumor. That's a forecast.
+[surveillance,work] I've got a guy in every department. The parks department pays best.
+[surveillance,food] The hot dog stand sees everything at lunch. Lunch sees nothing. Perfect symmetry.
+[surveillance] Keep walking. Nod once if the hydrangeas look suspicious to you too.
+[surveillance,money] I take cash, favors, and credible threats of errands.
+[surveillance] The rumor mill is union now. I represent myself. Poorly.
+[surveillance,work] Somebody in accounting bought a boat. In this economy, that's a confession.
+[surveillance] My sources are confidential. Also unreliable. It's a package deal.
+[surveillance,food] The pie at the diner is honest. The waitress knows why you ordered it.
+[surveillance,money] Information ages like milk. This tip? Yesterday's.
+[surveillance] I know a guy who knows a guy. I am both guys. Volume discount.
+[surveillance,work] Business is slow. Everyone's secrets got boring.
+[surveillance,food] The soup of the day is a rumor. I've confirmed the broth.
+[surveillance,mornings] Early bird gets the worm. The worm talks. Five bucks.

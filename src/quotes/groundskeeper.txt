@@ -30,3 +30,48 @@
 [gardening,work] I maintain the path. I cannot maintain your sense of direction.
 [gardening] The hedge is level. The sidewalk is having a moment.
 [gardening,money] We ordered premium soil. The invoice was certainly rich.
+[gardening,mornings] Dew inspection at six. The dew has been warned.
+[gardening,food] The community garden grows tomatoes and rivalries.
+[gardening,work] My supervisor asked for a status report. I pointed at the lawn.
+[gardening] The goose and I have an understanding. It hisses. I understand.
+[gardening,technology] The weather app says dry. The sky is filing a disagreement.
+[gardening,money] New mower in the budget. The budget was a haiku.
+[gardening,mornings] The park is perfect for nine minutes each dawn. I was there.
+[gardening,food] Somebody fed the ducks bread. The ducks now expect catering.
+[gardening] The geese held a rally by the pond. I have received their demands.
+[gardening,technology] The smart sprinkler has opinions about my soil. It's on the network now.
+[gardening] The leaves waited until I raked. Betrayal is seasonal and punctual.
+[gardening,mornings] Dawn is when the mower lines are honest. By noon they've been walked on.
+[gardening,work] Someone moved the bench to face the pond. The bench was calibrated.
+[gardening] Your shortcut saves four seconds and costs me four hours.
+[gardening] The fresh seed sign is not a suggestion. It's a fragile treaty.
+[gardening] The soil pH is none of your business, but since you asked: 6.4 and trending acidic.
+[gardening,work] Festival setup day. They drive stakes into my lawn and into my heart.
+[gardening,technology] The sprinkler app wants a firmware update. The sprinkler wants a hostage situation.
+[gardening,food] The geese found someone's picnic. The geese found it instructive.
+[gardening] I don't hate the shortcut. I hate the confidence of the shortcut-taker.
+[gardening,work] The city called it routine maintenance. I call it forty years of diplomacy.
+[gardening,money] The grounds budget covers two seasons. We have four. Math is not horticulture.
+[gardening,mornings] I greet the lawn before the lawn greets me. Professional courtesy.
+[gardening] The new intern raked against the grain. There is a grain.
+[gardening,technology] The smart sprinklers voted. I was outvoted by weather data.
+[gardening] The hedge maze isn't a maze. It's a hedge with management issues.
+[gardening,work] The festival's insurance form asked about turf damage. I needed a moment.
+[gardening,food] Someone planted basil in the flowerbed. Bold. Unsanctioned. Delicious.
+[gardening] The mower lines curve because the earth curves. Also because I'm an artist.
+[gardening,mornings] The first jogger gets the smell of fresh-cut grass and my judgment.
+[gardening,technology] The moisture sensor says the fern is fine. The fern disagrees. I side with the fern.
+[gardening,work] The park board wants wow factor. The lawn wants to be left alone.
+[gardening] A goose hissed at the new hire. Orientation is going well.
+[gardening,money] Seed money. Actual seeds. Accounting was confused.
+[gardening] The tulips came up early. I did not approve this. The tulips know.
+[gardening,technology] I was told the irrigation is self-healing. So am I, allegedly.
+[gardening] Bench relocation is a crime of opportunity. I am the consequence.
+[gardening,mornings] At six a.m. the park is mine. At six-oh-one it's the geese's.
+[gardening,work] The festival crew asked where the water hookup is. Under their stage. Again.
+[gardening] I seeded the bare patch, signed the bare patch, blessed the bare patch.
+[gardening,technology] The smart sprinkler updated itself. It now waters my patience.
+[gardening,food] Someone had a picnic on the new turf. The turf has filed a report.
+[gardening,mornings] The dew and I have a standing meeting. Minutes are kept in footprints.
+[gardening] Fall is just the trees outsourcing their mess to me.
+[gardening,work] My job description says landscaping. My soul says border disputes.

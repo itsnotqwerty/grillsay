@@ -30,3 +30,48 @@
 [art] Every blank canvas is a fresh opportunity to reorganize the studio.
 [art,money] Patronage is when someone else pays for the good brushes.
 [art] I work in charcoal. The grill guy says I'm wasting it.
+[art,work] I listed "exposure" as a dependent on my taxes.
+[art,money] My prices are firm, negotiable, and quietly sobbing.
+[art] The critics were divided. Both of them.
+[art,food] I plated dinner like an installation. It was reheated.
+[art,mornings] I sketch best at dawn, when doubt is still asleep.
+[art,technology] My tablet died and took three masterpieces and a grocery list.
+[art,work] The deadline moved closer. I admire its confidence.
+[art] I call it minimalism because framing is expensive.
+[art,money] Sold a piece. The check and the artist are both works of fiction.
+[art,food] The wine at openings is free because it's a dare.
+[art] My self-portrait was returned. Wrong address, right criticism.
+[art,technology] The scanner flattened my texture and my ambitions.
+[art,work] I do commissions. Yours, mine, anyone's landlord's.
+[art,gardening] I painted the garden en plein air. The garden charged rent.
+[art] Every sketchbook starts confident and ends as a coaster.
+[art,money] I offer payment plans: despair now, despair later.
+[art,food] The potluck asked me to bring my "famous" dip. Fame remains elusive.
+[art,mornings] The light at 7 a.m. is perfect. I have seen it twice.
+[art,work] My studio assistant is a houseplant with opinions.
+[art,technology] I named the file FINAL. The file laughed.
+[art] The muse called in sick. Again. Union rules.
+[art,money] The grant committee loved it, which is why it lost.
+[art,food] I deconstructed the sandwich. Lunch is now a theory.
+[art,work] Networking event: I stood near the cheese and radiated potential.
+[art] The canvas isn't blank. It's resting.
+[art,technology] My website has a visitor counter and a cry counter.
+[art,money] I accept cash, card, and sincere compliments over fifty dollars.
+[art,gardening] I drew the oak tree. The oak requested revisions.
+[art,work] Freelance means free to work at all hours for no one in particular.
+[art,food] Still life: one banana, aging faster than my career.
+[art] The exhibition runs all month. The month is February of my patience.
+[art,mornings] Coffee first, then I ruin the canvas professionally.
+[art,money] My art is priceless. The market agrees, specifically at zero.
+[art,technology] Autocorrect changed "chiaroscuro" to "charcoal sorrow." Accurate.
+[art,work] I pitched a mural. They pitched a parking validation.
+[art] The frame is from a thrift store. The confidence is from nowhere.
+[art,food] I arranged the charcuterie by tonal value. Nobody noticed. Art.
+[art,money] Teaching pays the bills. Art explains them.
+[art,work] My five-year plan is a very expressive sketch.
+[art] I titled it "Untitled" after a long deliberation.
+[art,money] I price by the hour. The hours are theoretical.
+[art,technology] My backup drive is a feeling of dread.
+[art,food] The opening had cheese cubes. Attendance tripled.
+[art] It's not derivative. It's in dialogue with my influences' lawyers.
+[art,work] I network horizontally. It's called lying on the studio floor.

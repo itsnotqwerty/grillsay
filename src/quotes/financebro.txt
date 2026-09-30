@@ -30,3 +30,48 @@
 [money,technology] The dashboard is green because I changed the color settings.
 [money] It's a long-term hold now. It wasn't supposed to be.
 [money,work] We pivoted from growth to explaining the lack of growth.
+[money,food] Lunch is a write-off if we say "markets" once.
+[money,work] My hustle has a holding company.
+[money,mornings] I wake at 4:30 to read about waking at 4:30.
+[money,technology] The app is pre-revenue, post-confidence.
+[food,money] I tipped in equity.
+[money,work] Quiet quitting is just active rebranding.
+[money] My emergency fund is my roommate.
+[money,food] Splitting the check is my due diligence.
+[money,technology] Web3 was a phase. The debt is evergreen.
+[money,work] I'm not unemployed; I'm pre-seed.
+[money,mornings] Cold plunge, hot takes, lukewarm returns.
+[food,money] The brunch was a strategy session. The strategy was eggs.
+[money] I don't lose money. I deploy it into lessons.
+[money,work] Synergy is when two people split one salary.
+[money,technology] I automated my budgeting. It now judges me at scale.
+[money,food] The group chat settles debts in GIFs.
+[money] Buy the dip, they said. I'm now a dip collector.
+[money,work] My five-year plan has a vesting schedule and no vest.
+[money,mornings] Rise and grind. Mostly grind. Some lying down.
+[money,food] Avocado toast is why I can't afford a house. I keep buying it to be sure.
+[money,technology] My portfolio is diversified across apps I can't log into.
+[money,work] We don't have customers; we have a community of creditors.
+[money] The yacht fund currently holds a kayak.
+[money,food] I expense my personality under "brand development."
+[money,technology] The bot trades better than me. The bot has no rent.
+[money,work] Hustle culture is just cardio with invoices.
+[money,mornings] My morning routine costs more than my morning earns.
+[money] Compound interest is magic. Compounding fees are the magician's assistant.
+[money,food] Steak dinner with a potential investor. Potential paid.
+[money,work] I network therefore I am broke.
+[money,technology] The subscription to cancel subscriptions just renewed.
+[money] I'm asset-rich in confidence and cash-poor in cash.
+[money,work] Our burn rate is inspirational. Investors are inspired to leave.
+[money,food] Free breadsticks are my dividend yield.
+[money,mornings] Grateful for another day of margin calls and meditation.
+[money,technology] I tokenized my parking spot. It's my most liquid asset.
+[money,work] The promotion came with more meetings and the same chair.
+[money] My financial advisor is a podcast. My podcast is a cry for help.
+[money,food] I don't buy coffee; I acquire caffeine exposure.
+[money,work] Exit strategy: become the intern again, but wiser and louder.
+[money] My portfolio is diversified across three apps and a feeling.
+[money,food] Brunch is a networking event with eggs as the keynote.
+[money,technology] Disruption is just breaking things with a pitch deck.
+[money,work] I take meetings while walking. The walking is billable.
+[money] Liquidity is a mindset. So is overdraft.
